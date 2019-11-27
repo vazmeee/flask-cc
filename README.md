@@ -1,2 +1,2 @@
 # flask-cc
-CC project on selfiless acts
+CC project on selfless acts
